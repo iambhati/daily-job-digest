@@ -1,4 +1,4 @@
-name: Daily job_scraper
+name: job_scraper
 
 on:
   schedule:
